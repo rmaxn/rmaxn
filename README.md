@@ -1,5 +1,5 @@
 ### Olá eu sou o Robertson, mas pode me chamar de Rob 👋
-<img align="right" alt="rmaxn-hello" width="150" src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif?cid=ecf05e473p4ftda86z8g9vvo5coip534ba6d0jadpl9ogtqk&rid=giphy.gif&ct=g">
+<img align="right" alt="rmaxn-hello" width="170" src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif?cid=ecf05e473p4ftda86z8g9vvo5coip534ba6d0jadpl9ogtqk&rid=giphy.gif&ct=g">
 
 - 🌱 Estou aprendendo desenvolvimento back-end
 - 👯 Sou formado em pedagogia pois sou apaixonado e acredito no poder transformador da educação, e é justamente essa paixão me que levou a TRYBE, responsável pela minha formação para Desenvolvedor Full Stack, aqui no meu Github vocês podem acompanhar minha evolução e também os meus projetos pessoais e também os avaliativos.
@@ -9,8 +9,8 @@
 <hr> 
 <div style"display: inline" align="center">
   <a href="https://github.com/rmaxn">
-  <img width="40%" height"500" src="https://github-readme-stats.vercel.app/api?username=rmaxn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="40%" height"500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaxn&layout=compact&langs_count=7&theme=dark"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=rmaxn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaxn&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
