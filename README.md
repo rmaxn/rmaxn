@@ -33,6 +33,5 @@
 <a href="https://www.instagram.com/rmaxn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<div align="center">
 ![Snake animation](https://github.com/rmaxn/rmaxn/blob/output/github-contribution-grid-snake.svg)
-</div>
+
