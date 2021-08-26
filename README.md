@@ -9,8 +9,8 @@
 <hr> 
 <div style"display: inline" align="center">
   <a href="https://github.com/rmaxn">
-  <img width="450" height"500" src="https://github-readme-stats.vercel.app/api?username=rmaxn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="450" height"500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaxn&layout=compact&langs_count=7&theme=dark"/>
+  <img width="40%" height"500" src="https://github-readme-stats.vercel.app/api?username=rmaxn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="40%" height"500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaxn&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
