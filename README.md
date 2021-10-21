@@ -2,7 +2,7 @@
 <img align="right" alt="rmaxn-hello" width="170" src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif?cid=ecf05e473p4ftda86z8g9vvo5coip534ba6d0jadpl9ogtqk&rid=giphy.gif&ct=g">
 
 - 🌱 Estou aprendendo desenvolvimento back-end
-- 👯 Sou formado em pedagogia pois sou apaixonado e acredito no poder transformador da educação, e é justamente essa paixão me que levou a TRYBE, responsável pela minha formação para Desenvolvedor Full Stack, aqui no meu Github vocês podem acompanhar minha evolução e também os meus projetos pessoais e também os avaliativos.
+- 👯 Sou formado em pedagogia pois sou apaixonado e acredito no poder transformador da educação, e é justamente essa paixão me que levou a TRYBE, responsável pela minha formação para Desenvolvedor Full Stack, aqui no meu Github vocês podem acompanhar minha evolução, meus projetos pessoais e também os avaliativos.
 - 😄 Pronomes: Ele / Dele
 - ⚡ Nas horas vagas vocês vão me encontrar jogando videogame (PSN: rmaxn1 | Xbox Gamertag: rmaxn), vendo série ou lendo um livro.
 
