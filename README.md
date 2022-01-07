@@ -1,7 +1,7 @@
 ### Olá eu sou o Robertson, mas pode me chamar de Rob 👋
 <img align="right" alt="rmaxn-hello" width="170" src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif?cid=ecf05e473p4ftda86z8g9vvo5coip534ba6d0jadpl9ogtqk&rid=giphy.gif&ct=g">
 
-- 🌱 Estou aprendendo desenvolvimento back-end
+- 🌱 Desenvolvedor Full Stack em formação na Trybe.
 - 👯 Sou formado em pedagogia pois sou apaixonado e acredito no poder transformador da educação, e é justamente essa paixão me que levou a TRYBE, responsável pela minha formação para Desenvolvedor Full Stack, aqui no meu Github vocês podem acompanhar minha evolução, meus projetos pessoais e também os avaliativos.
 - 😄 Pronomes: Ele / Dele
 - ⚡ Nas horas vagas vocês vão me encontrar jogando videogame (PSN: rmaxn1 | Xbox Gamertag: rmaxn), vendo série ou lendo um livro.
@@ -14,14 +14,18 @@
 </div>
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="rmaxn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="rmaxn-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg">
   <img align="center" alt="rmaxn-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="rmaxn-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="rmaxn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rmaxn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rmaxn-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="rmaxn-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original.svg">
-    <img align="center" alt="rmaxn-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg">
+  <img align="center" alt="rmaxn-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="rmaxn-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="rmaxn-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="rmaxn-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
+  <img align="center" alt="rmaxn-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
 </div>
 <hr>
 <div align="center">
